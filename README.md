@@ -1,12 +1,12 @@
 <h1 align="center">Hey! Welcome to Kenmeiyoki's github page!</h1>
 
-- 🔭 I work mainly on [PROJET ICI](LIENICI) at this moment.
-- 🌱 At this moment, I learning: **C#**
-- 👨‍💻 Portfolio : [https://kprz.fr](https://kprz.fr)
-- 📄 Experiences : [https://kprz.fr/exp](https://kprz.fr/exp)
-- 📫 Contact me : **contact@kprz.fr**
-- 🏠 Where I am? : CLERMONT-FERRAND (63) - FRANCE
-- 🌎 Language : [🇫🇷] FRENCH (native), [🇬🇧] ENGLISH (B2 - CECRL), [🇪🇸] SPANISH (school level), [🇯🇵] JAPANESE (self-taught, beginner)
+—🔭 I work mainly on [PROJET ICI] (LIENICI) at this moment.
+—🌱 At this moment, I am learning: **C#**
+—👨‍💻 Portfolio: [https://kprz.fr] (https://kprz.fr)
+—📄 Experiences: [https://kprz.fr/exp] (https://kprz.fr/exp)
+—📫 Contact me: **contact@kprz.fr**
+—🏠 Where am I? : CLERMONT-FERRAND (63)—FRANCE
+—🌎 Language: [🇫🇷] FRENCH (native), [🇬🇧] ENGLISH (B2—CECRL), [🇪🇸] SPANISH (school level), [🇯🇵] JAPANESE (self-taught, beginners)
 
 <h3 align="left">You can see me on::</h3>
 <p align="left">
